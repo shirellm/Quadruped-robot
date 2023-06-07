@@ -10,4 +10,4 @@ The repository consists of three key components:
 
 3. The robot_dog_learning_spot.py script, which instantiates a Soft Actor-Critic (SAC) model and initiates the learning process. This script orchestrates the training procedure for the robot, enabling it to acquire the desired skills through the SAC algorithm.
 
-This repository provides a comprehensive and structured framework for leveraging CoppeliaSim, the RobotModelEnv_spot gym environment, and the robot_dog_learning_spot.py script to train and optimize the behavior of a robot dog.
+This repository provides a comprehensive and structured framework for leveraging CoppeliaSim, the RobotModelEnv_spot gym environment, and the robot_dog_learning_spot.py script to train the robot dog using our algorithm.
