@@ -2,6 +2,7 @@
 Motion Planning for Robotic Dog Walking in Unstructured Terrain- Master thesis by Shirelle Marcus Drori.
 
 The research video, containing the key highlights and main points, can be accessed through the following link: https://youtu.be/YQYZGnZ85pM
+
 This video provides a concise overview of the research findings, allowing viewers to gain an understanding of the core aspects and significant contributions of the study.
 
 The repository consists of three key components:
